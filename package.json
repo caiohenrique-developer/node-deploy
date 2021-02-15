@@ -10,7 +10,7 @@
     "typeorm": "ts-node-dev -r tsconfig-paths/register ./node_modules/typeorm/cli.js",
     "test": "jest",
     "commit": "git-cz",
-		"release": "semantic-release --no-ci"
+    "release": "semantic-release --no-ci"
   },
   "config": {
     "commitizen": {
