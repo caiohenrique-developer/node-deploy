@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "babel src --extensions \".js,.ts\" --out-dir dist --copy-files",
-    "dev:server": "ts-node-dev -r tsconfig-paths/register --inspect --transpileOnly --ignore node_modules src/shared/infra/http/server.ts",
+    "dev:server": "ts-node-dev --poll -r tsconfig-paths/register --inspect --transpileOnly --ignore node_modules src/shared/infra/http/server.ts",
     "start": "ts-node src/shared/infra/http/server.ts",
     "typeorm": "ts-node-dev -r tsconfig-paths/register ./node_modules/typeorm/cli.js",
     "test": "jest",
@@ -89,6 +89,7 @@
     "prettier": "^2.0.5",
     "semantic-release": "^17.3.9",
     "ts-jest": "^26.1.4",
+    "ts-node": "^9.1.1",
     "ts-node-dev": "^1.0.0-pre.44",
     "tsconfig-paths": "^3.9.0",
     "typescript": "^3.8.3"
