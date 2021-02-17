@@ -109,3 +109,4 @@ tmp/*
 
 # To ignore these files
 ormconfig.json
+ormconfig.js
