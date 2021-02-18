@@ -81,11 +81,11 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
 	# Install PostgreSQL image
 	# Maybe you must be use the sudo command
 	$ docker run --name your-container-name \
-		-e POSTGRES_USER=your-username \
-		-e POSTGRES_DB=your-database \
-		-e POSTGRES_PASSWORD=your-secret-password \
-		-p 5432:5432 \
-		-d postgres
+			-e POSTGRES_USER=your-username \
+			-e POSTGRES_DB=your-database \
+			-e POSTGRES_PASSWORD=your-secret-password \
+			-p 5432:5432 \
+			-d postgres
 
 	# Install MongoDB image
 	$ docker run --name your-container-name -p 27017:27017 -d -t mongo
