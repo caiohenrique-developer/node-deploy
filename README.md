@@ -24,7 +24,7 @@
 <!-- <br> -->
 
 <p align="center">
-  <img alt="GoBarber background image" src="src/assets/logo.svg" width="100%" />
+  <img alt="GoBarber mockup image" src="src/assets/logo.svg" width="100%" />
 </p>
 
 ## :flying_saucer: Technologies
