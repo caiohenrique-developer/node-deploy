@@ -21,10 +21,10 @@
 
 <!-- ## :art: App UI -->
 
-<!-- <br> -->
+<br>
 
 <p align="center">
-  <img alt="GoBarber mockup image" src="src/assets/logo.svg" width="100%" />
+  <img alt="GoBarber mockup image" src="src/assets/mockuper.png" width="100%" />
 </p>
 
 ## :flying_saucer: Technologies
@@ -56,6 +56,9 @@ This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocke
 In order to use and test this project locally, you should've already setup the development environment. <br>
 Therefore, firstly i recommend that you install [Docker](https://www.docker.com/) on your machine and download the images [postgres](https://hub.docker.com/_/postgres), [mongo](https://hub.docker.com/_/mongo) and [redis](https://hub.docker.com/_/redis/) following the steps in the section on the page **How to use this image**. _Or you can also just follow the steps in the "<a href="#grey_question-how-to-use">❔ How To Use</a>" section of this doc._ <br>
 _Or go to [**gobarber.desenvolvendosistemas.dev.br**](https://gobarber.desenvolvendosistemas.dev.br/) to see the project in a production environment._
+
+-	Insomnia request routes: <br>
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber%20API&uri=https%3A%2F%2Fgithub.com%2Fcaiohenrique-developer%2Fnode-deploy%2Fblob%2Fmaster%2F.github%2Fworkflows%2Fdocs%2FGoBarber%2520API%2520-%2520Insomnia_2021-02-18)
 
 ## :grey_question: How To Use
 
@@ -121,7 +124,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
 </details>
 
 <p align="center">
-  <img alt="GoBarber background image" src="src/assets/logo.svg" width="700" />
+  <img alt="GoBarber background image" src="src/assets/thanks-message.js.svg" width="700" />
 </p>
 
 ## :bookmark: Badges
