@@ -160,6 +160,10 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
 
   <img alt="GitHub License" src="https://img.shields.io/github/license/caiohenrique-developer/node-deploy">
 
+  <a href="https://github.com/semantic-release/semantic-release">
+    <img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg">
+  </a>
+
   <!-- <a href="https://app.netlify.com/sites/gobarber-react-web/deploys">
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/dd225487-0a31-4b67-8d9c-8006280cce71/deploy-status">
   </a> -->
