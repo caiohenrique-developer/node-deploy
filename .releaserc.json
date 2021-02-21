@@ -49,7 +49,7 @@
       {
           "path": "@semantic-release/git",
           "assets": ["package.json","package-lock.json","CHANGELOG.md"],
-          "message": "chore(Release): :bookmark: ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+          "message": "chore(:bookmark:): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
   ]
 }

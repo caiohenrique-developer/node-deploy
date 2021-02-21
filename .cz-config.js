@@ -32,7 +32,7 @@ module.exports = {
     { value: 'feat', name: '{ MINOR - TAG }: Add a release tag of feat type' },
   ],
 
-  scopes: [{ name: 'Release' }, { name: 'Test' }, { name: 'accounts' }, { name: 'admin' }, { name: 'exampleScope' }, { name: 'changeMe' }],
+  scopes: [{ name: ':bookmark:' }, { name: 'Release' }, { name: 'Test' }, { name: 'accounts' }, { name: 'admin' }, { name: 'exampleScope' }, { name: 'changeMe' }],
 
   allowTicketNumber: false,
   isTicketNumberRequired: false,
