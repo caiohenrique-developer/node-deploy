@@ -144,8 +144,6 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
     <img alt="GitHub Releases" src="https://img.shields.io/github/release-date/caiohenrique-developer/node-deploy">
   </a>
 
-  <br>
-
   <a href="https://github.com/caiohenrique-developer/node-deploy/tags">
     <img alt="GitHub Tags" src="https://img.shields.io/github/package-json/v/caiohenrique-developer/node-deploy/master">
   </a>
@@ -162,9 +160,25 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
     <img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg">
   </a>
 
-  <!-- <a href="https://app.netlify.com/sites/gobarber-react-web/deploys">
-    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/dd225487-0a31-4b67-8d9c-8006280cce71/deploy-status">
-  </a> -->
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ## [🔝](#top) License :closed_lock_with_key:
